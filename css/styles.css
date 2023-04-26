@@ -198,4 +198,10 @@ h2 {
       height: 40px;
       width: 150px;
     }
+    .branches-image{
+      width: 100%;
+    }
+    .branches-image1{
+      height: 100%;
+    }
 }
