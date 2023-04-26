@@ -194,4 +194,8 @@ h2 {
     .sign-up-margin{
       margin-top: 3rem;
     }
+    .logo-image{
+      height: 40px;
+      width: 150px;
+    }
 }
